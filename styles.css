@@ -1,6 +1,7 @@
 /* 
-This is an alternate CSS which first implements the parameters
-from the image, i.e. fonts, and colors
+Rough second draft, what is missing: cleanup, better ordering, and definitely some error checking...
+To Do: Find a way to keep the basic width for all elements when the page is resized.
+Unclear: Using wrap or not (esp. for the information boxes)
 */
 
 * {
